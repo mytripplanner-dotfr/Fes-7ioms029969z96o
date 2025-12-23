@@ -1,0 +1,81 @@
+{
+  "pays": "Maroc",
+  "drapeau": "🇲🇦",
+  "symbole": "🕌",
+  "titre": "Évasion Relaxante à Fès: Culture et Sérénité",
+  "budget_total": "Environ 550 €/pers",
+  "duree": "2 jours",
+  "temps_vol": "2h45 (depuis Paris, france)",
+  "escale": "0",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée et Immersion Douce dans la Médina",
+      "legende": "Débutez votre aventure à Fès par une arrivée en douceur. Après l'installation, laissez-vous charmer par l'ambiance unique de la médina, ses ruelles labyrinthiques et ses souks colorés. Une première immersion relaxante pour s'acclimater à la ville impériale, loin du tumulte parisien.",
+      "lieu": "Fès",
+      "activites": [
+        "<strong>🛬</strong>: Arrivée à l'aéroport de Fès-Saïs (FEZ) et transfert vers votre hébergement au cœur de la médina.",
+        "<strong>🛏️</strong>: Installation dans un riad traditionnel, un havre de paix pour une immersion authentique et reposante.",
+        "<strong>🚶‍♂️</strong>: Première balade libre dans la médina de Fès el-Bali, classée à l'UNESCO, pour s'imprégner de l'atmosphère et découvrir les souks à votre rythme."
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "Transfert",
+          "texte": "Des taxis sont disponibles à l'aéroport. Négociez le prix avant de monter ou réservez un transfert via votre riad pour plus de sérénité."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🏺",
+      "titre": "Artisanat, Jardins et Détente Orientale",
+      "legende": "Plongez au cœur de l'artisanat ancestral de Fès avec la visite des tanneries, puis trouvez la sérénité dans les jardins luxuriants. Terminez la journée par une expérience de bien-être, pour une détente absolue avant le départ. Une journée équilibrée entre découverte culturelle et relaxation.",
+      "lieu": "Fès",
+      "activites": [
+        "<strong>🎨</strong>: Visite des Tanneries Chouara, un spectacle visuel et olfactif unique, pour comprendre un savoir-faire millénaire et observer le travail des artisans.",
+        "<strong>🌳</strong>: Promenade apaisante dans les Jardins Jnan Sbil, un écrin de verdure et de fraîcheur au cœur de la ville, idéal pour une balade douce.",
+        "<strong>🧖‍♀️</strong>: Expérience relaxante dans un hammam traditionnel, pour un moment de pure détente et de purification du corps et de l'esprit.",
+        "<strong>✈️</strong>: Transfert vers l'aéroport de Fès-Saïs (FEZ) pour votre vol retour vers Paris."
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "👃",
+          "titre": "Tanneries",
+          "texte": "Un brin de menthe est souvent proposé pour atténuer l'odeur forte des tanneries. N'hésitez pas à l'accepter pour une visite plus agréable."
+        },
+        {
+          "symbole": "💡",
+          "titre": "Hammam",
+          "texte": "Réservez votre séance de hammam à l'avance, surtout si vous souhaitez des soins spécifiques ou une plage horaire particulière."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    { "titre": "Budget vol:", "legende": "A partir de 284 €/pers", "symbole": "🛬" },
+    { "titre": "Budget transports:", "legende": "Environ 40 €/pers (taxis aéroport A/R, petits trajets)", "symbole": "🚕" },
+    { "titre": "Budget repas:", "legende": "Environ 70 €/pers (35 €/jour pour 2 jours)", "symbole": "🥗" },
+    { "titre": "Budget logement:", "legende": "Environ 100 €/pers (2 nuits en riad 3* sur base double)", "symbole": "🛏️" },
+    { "titre": "Budget activités:", "legende": "Environ 50 €/pers (hammam, entrées)", "symbole": "🎭" }
+  ],
+  "periodes_ideales": [
+    { "titre": "Printemps (Avril-Mai) et Automne (Septembre-Octobre) pour des températures agréables.", "symbole": "☀️" },
+    { "titre": "Hiver (Novembre-Mars) pour des températures plus douces et moins de foule.", "symbole": "❄️" }
+  ],
+  "infos_pratiques": [
+    { "titre": "La monnaie locale est le Dirham marocain (MAD). Les cartes bancaires sont acceptées dans les grands établissements, mais prévoyez du liquide pour les souks et petits commerces.", "symbole": "💳" },
+    { "titre": "Le Maroc est un pays musulman. Respectez les coutumes locales, notamment en vous habillant de manière modeste, surtout lors de la visite de lieux de culte.", "symbole": "🕌" },
+    { "titre": "Négocier les prix est une pratique courante dans les souks. Faites-le avec le sourire et respect, c'est une partie de l'expérience culturelle.", "symbole": "🤝" },
+    { "titre": "L'eau du robinet n'est pas toujours potable. Privilégiez l'eau en bouteille pour éviter tout désagrément.", "symbole": "💧" }
+  ],
+  "liens_utiles": [
+    { "legende": "Vols", "titre": "Réserve ton vol", "url": "https://www.kayak.fr/flights/CDG-FEZ/2024-10-15/2024-10-17", "symbole": "🛬" },
+    { "legende": "Infos officielles et inspirations", "titre": "Visit Morocco", "url": "https://www.visitmorocco.com/fr", "symbole": "📘" },
+    { "legende": "Hébergements", "titre": "Booking.com Fès", "url": "https://www.booking.com/city/ma/fes.fr.html", "symbole": "🛏️" },
+    { "legende": "Météo", "titre": "Météo Fès", "url": "https://www.accuweather.com/fr/ma/fez/246479/weather-forecast/246479", "symbole": "🌤️" }
+  ]
+}
